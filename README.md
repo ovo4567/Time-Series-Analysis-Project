@@ -123,9 +123,6 @@ $$
 | ANOVA | Mean stability | Constant mean over time |
 | Bartlett's | Variance stability | Constant variance over time |
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
